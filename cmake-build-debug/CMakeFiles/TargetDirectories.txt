@@ -1,0 +1,3 @@
+C:/Users/79253/Desktop/Учёба/Программы/ЭВМ 7 семестр/Задача2/cmake-build-debug/CMakeFiles/2.dir
+C:/Users/79253/Desktop/Учёба/Программы/ЭВМ 7 семестр/Задача2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79253/Desktop/Учёба/Программы/ЭВМ 7 семестр/Задача2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
